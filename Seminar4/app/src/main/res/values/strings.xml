@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="marca">Introduceți marca bicicletei:</string>
+    <string name="introducere_date_bicicleta">Introducere date bicicleta</string>
+    <string name="tip">Tipul de bicicleta:</string>
+    <string name="bicicleta_electrica">Bicicleta este electrică?</string>
+    <string name="adauga">Adauga</string>
+    <string name="starea_bicicletei">Evaluați starea bicicletei:</string>
+    <string-array name="culori">
+        <item>Rosu</item>
+        <item>Albastru</item>
+        <item>Verde</item>
+        <item>Alta culoare</item>
+    </string-array>
+</resources>
