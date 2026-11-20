@@ -115,6 +115,4 @@ public class MainActivity extends AppCompatActivity {
         outState.putParcelableArrayList(CHEIE_LISTA, lstBiciclete);
         super.onSaveInstanceState(outState);
     }
-
-
 }

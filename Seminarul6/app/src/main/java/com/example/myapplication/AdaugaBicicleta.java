@@ -52,7 +52,8 @@ public class AdaugaBicicleta extends AppCompatActivity {
         adapter.setDropDownViewResource(android.R.layout.simple_spinner_dropdown_item);
         spCuloare.setAdapter(adapter);
 
-        boolean modEditare = getIntent().getBooleanExtra(CHEIE_MODIFICARE, false);
+        boolean modEditare = getIntent().getBooleanExtra(
+                CHEIE_MODIFICARE, false);
 
         if (modEditare) {
             if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.TIRAMISU) {
