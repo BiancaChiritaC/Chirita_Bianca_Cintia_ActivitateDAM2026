@@ -43,8 +43,7 @@
         android:id="@+id/rbMunte"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Bicicleta de munte"
-        android:checked="true" />
+        android:text="Bicicleta de munte" />
 
     <RadioButton
         android:id="@+id/rbStrada"
